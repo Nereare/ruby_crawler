@@ -12,3 +12,6 @@
 
 # released gems
 *.gem
+
+# misc
+bin/sandbox
