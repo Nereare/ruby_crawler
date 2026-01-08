@@ -1,6 +1,7 @@
 AllCops:
   TargetRubyVersion: 3.2
-require:
+  NewCops: enable
+plugins:
   - rubocop-rake
   - rubocop-rspec
 
